@@ -3,11 +3,11 @@
 
 - 📚 I’m currently learning **HTML, CSS and JS**
 
-- ⚡ Undergoing immigration processes to Montréal, Canada via Arrima. Waiting for CSQ.
+- ⚡ Undergoing immigration processes to **Montréal, Canada** via Arrima. Waiting for CSQ.
 
-- 💬 Fun fact **I was an e-sports athlete for 3 years**
+- 💬 Fun fact: **I was an e-sports athlete for 3 years**
 
-- 💬 Fun fact2**I speak Portuguese, English, French and Spanish fluently**
+- 💬 Fun fact2: **I speak Portuguese, English, French and Spanish fluently**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
