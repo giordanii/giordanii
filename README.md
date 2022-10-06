@@ -1,9 +1,13 @@
 <h1 align="center">Hey you 👋, I'm João Giordani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giordanii&label=Profile%20views&color=0e75b6&style=flat" alt="giordanii" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and JS**
+- 📚 I’m currently learning **HTML, CSS and JS**
 
-- ⚡ Fun fact **I was an e-sports athlete for 3 years**
+- ⚡ Undergoing immigration processes to Montréal, Canada via Arrima. Waiting for CSQ.
+
+- 💬 Fun fact **I was an e-sports athlete for 3 years**
+
+- 💬 Fun fact2**I speak Portuguese, English, French and Spanish fluently**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
