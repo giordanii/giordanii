@@ -5,7 +5,7 @@
 - 💬 Fun fact: **I was an e-sports athlete for 3 years**
 - 💬 Fun fact2: **I speak Portuguese, English, French and Spanish fluently**
 
-<p> Pls use CTRL(CMD) + Mouse click to open links on a new tab, since markdown still does not support "_blank" target</p>:ninja:
+<p> Pls use CTRL(CMD) + Mouse click to open links on a new tab, since markdown still does not support "_blank" target :ninja:</p>
 
 📫 Contact me:<br>
 <a href="https://www.linkedin.com/in/joao-giordani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
